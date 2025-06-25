@@ -2,7 +2,7 @@
 
 # 🔗 Hello! I'm KANGHO-LEE
 
-🌿 I'm interested in Electrical & Electronic Engineering
+🌿 I'm interested in Electrical & Electronic Engineering.
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.  
 🌱 I’m currently studying Reinforcement Learning, relevant framework and simulator such as Orbit, IsaacGym, IsaacSIM.  
 🛠️ I’m currently working on the projects on Robotics (Manipulator online learning).  
