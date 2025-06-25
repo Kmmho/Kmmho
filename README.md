@@ -13,8 +13,8 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 
 ## 👩‍💻 Experiences
 
-✅ [Tobigs](https://tobigs.github.io) | 2024.01 ~ Present  
-✅ [KIST Robot Vision Lab](https://kist.re.kr) | 2024.01 ~ 2024.06  
+✅ [HYUNDAI MOBIS SW hackathon](https://tobigs.github.io) | 2024.02 ~ 2024.03  
+✅ [HL Mando & HL Klemove Intelligent Vehicle School](https://kist.re.kr) | 2024.12 ~ 2025.06  
 
 ---
 
