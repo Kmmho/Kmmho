@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-# 🔗 Hello! I'm NA-HYUN / BELLA
+# 🔗 Hello! I'm KANGHO-LEE
 
 🌿 I'm interested in Electrical & Electronic Engineering.  
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.  
