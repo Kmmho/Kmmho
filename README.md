@@ -29,7 +29,7 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 - 🧪 [**Black-box Testing with CANoe**](https://github.com/Kmmho/BlackBox_Testing_Automation)
   → [2025] '제어기 진단 통신 기능' 동적 검증 자동화 프로젝트(CANoe, CAPL)
 
-- 🚗 [**Autonomous Driving Controller (CarMaker + Simulink)**](https://github.com/Kmmho/ADAS_Motion_Planning-Control)
+- 🚗 [**Autonomous Driving Controller (CarMaker + MATLAB & Simulink)**](https://github.com/Kmmho/ADAS_Motion_Planning-Control)
   → Frenet 기반 주행 궤적 생성 및 제어기 구현
 
 👉 더 많은 프로젝트는 [My Repositories](https://github.com/your-id?tab=repositories) 참고!
@@ -37,7 +37,6 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 ---
 
 ## 📬 How to reach me
-
 📧 rkdghdi3@naver.com
 
 ---
