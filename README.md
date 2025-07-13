@@ -13,21 +13,21 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 
 ## 👩‍💻 Experiences
 
-✅ [HYUNDAI MOBIS SW hackathon](https://tobigs.github.io) | 2024.02 ~ 2024.03  
+✅ [HYUNDAI MOBIS SW hackathon](https://tobigs.github.io) | 2024.01 ~ 2024.02
 ✅ [HL Mando & HL Klemove Intelligent Vehicle School](https://kist.re.kr) | 2024.12 ~ 2025.06  
 
 ---
 
 ## 🔧 Key Projects
 
-- 📡 [**FMCW Radar-based Vital Sign Detection**](https://github.com/your-id/fmcw-vital-sign)  
-  → Real-time respiration & heartbeat detection using radar signal processing
+- 📡 [**FMCW Radar-based 3D People Counting Pipeline Study**](https://github.com/your-id/fmcw-vital-sign)  
+  → Pipeline Study
 
 - 🔐 [**Secure Bootloader for Embedded ECU**](https://github.com/your-id/secure-bootloader)  
-  → SHA-256 기반 무결성 검증 포함, 자동차 ECU용 부트로더
+  → [2025] UDS 리프로그래밍을 위한 부트로더 설계(C, TC234LP, TRACE32, ...)
 
 - 🧪 [**Black-box Testing with CANoe**](https://github.com/your-id/canoe-blackbox-testing)  
-  → CAPL 스크립트를 활용한 자동 테스트 및 fault injection 프레임워크
+  → [2025] '제어기 진단 통신 기능' 동적 검증 자동화 프로젝트(CANoe, CAPL)
 
 - 🚗 [**Autonomous Driving Controller (CarMaker + Simulink)**](https://github.com/your-id/frenet-motion-control)  
   → Frenet 기반 주행 궤적 생성 및 제어기 구현
