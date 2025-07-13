@@ -10,11 +10,14 @@
 Explore my studies and projects on [this site](https://your-portfolio-link.com) — your interest is welcome :>
 
 ---
+## 🏫 Education
+🏢 [Dankook University] | 2019.03 ~ 2025.02  
+🏢 [HL Mando & HL Klemove Intelligent Vehicle School] | 2024.12 ~ 2025.06  
 
-## 👩‍💻 Experiences
+## 👩‍💻 Awards
 
-✅ [HYUNDAI MOBIS SW hackathon](https://tobigs.github.io) | 2024.01 ~ 2024.02  
-✅ [HL Mando & HL Klemove Intelligent Vehicle School](https://kist.re.kr) | 2024.12 ~ 2025.06  
+✅ [제2회 미래형자동차 자율주행 SW 경진대회](https://tobigs.github.io) | 2023.07 ~ 2023.08  
+✅ [제3회 국제 대학생 자율주행 EV 경진대회](https://kist.re.kr) | 2024.02 ~ 2024.05  
 
 ---
 
