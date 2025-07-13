@@ -40,8 +40,8 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 ---
 
 ## 📬 How to reach me
-📧 rkdghdi3@naver.com
-📱 010-9763-1863
+📧 rkdghdi3@naver.com  
+📱 010-9763-1863  
 ---
 
 ## 💻 Languages and Tools
