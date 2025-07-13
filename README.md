@@ -23,13 +23,13 @@ Explore my studies and projects on [this site](https://your-portfolio-link.com) 
 - 📡 [**FMCW Radar-based 3D People Counting Pipeline Study**](https://github.com/your-id/fmcw-vital-sign)  
   → Pipeline Study
 
-- 🔐 [**Secure Bootloader for Embedded ECU**](https://github.com/your-id/secure-bootloader)  
+- 🔐 [**Secure Bootloader for Embedded ECU**](https://github.com/Kmmho/OTA_Bootloader_Design) 
   → [2025] UDS 리프로그래밍을 위한 부트로더 설계(C, TC234LP, TRACE32, ...)
 
-- 🧪 [**Black-box Testing with CANoe**](https://github.com/your-id/canoe-blackbox-testing)  
+- 🧪 [**Black-box Testing with CANoe**](https://github.com/Kmmho/BlackBox_Testing_Automation)
   → [2025] '제어기 진단 통신 기능' 동적 검증 자동화 프로젝트(CANoe, CAPL)
 
-- 🚗 [**Autonomous Driving Controller (CarMaker + Simulink)**](https://github.com/your-id/frenet-motion-control)  
+- 🚗 [**Autonomous Driving Controller (CarMaker + Simulink)**](https://github.com/Kmmho/ADAS_Motion_Planning-Control)
   → Frenet 기반 주행 궤적 생성 및 제어기 구현
 
 👉 더 많은 프로젝트는 [My Repositories](https://github.com/your-id?tab=repositories) 참고!
